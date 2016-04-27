@@ -1,0 +1,9 @@
+#---------------------------------------
+#--------- PARAMETERS FILE -------------
+#---------------------------------------
+#+++++++++++++++++++++++++++++++++++++++
+#Number of cells per axis is N
+#Total number of cells is N^3
+N = 256
+#Path of data file
+FILENAME = /home/dvalencia/Codes.juank/CIC_binary/Data/CIC_Potential_field_256.bin
